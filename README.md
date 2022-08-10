@@ -122,8 +122,4 @@ To start contributing, follow the below guidelines:
   [![Watch the video](https://img.youtube.com/vi/GmlaqiVSDcI/0.jpg)](https://www.youtube.com/watch?v=7EAICpQQk2A)
   
 
-## Live Website 
-
-<a href="https://factopedia.netlify.app/">Fact-o-Pedia</a>
-
 
